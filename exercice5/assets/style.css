@@ -1,0 +1,18 @@
+.titre {
+    text-align: center;
+}
+
+th, td {
+    border: 1px solid;
+    padding: 10px;
+}
+
+table {
+    border-collapse: collapse;
+    border: 2px solid;
+    width: 100%;
+}
+
+.total {
+    text-align: center;
+}
